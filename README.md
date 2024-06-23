@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bdonny
 - 👀 I’m interested in automation and machine learning
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web automation projects
 - 📫 How to reach me ...
 
 <!---
